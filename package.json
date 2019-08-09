@@ -1,0 +1,23 @@
+{
+  "name": "perf_hooks-playtime",
+  "version": "1.0.0",
+  "description": "Scripts playing with nodejs perf_hooks api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsan/perf_hooks-playtime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielsan/perf_hooks-playtime/issues"
+  },
+  "homepage": "https://github.com/danielsan/perf_hooks-playtime#readme",
+  "devDependencies": {
+    "standard": "^13.1.0"
+  }
+}
